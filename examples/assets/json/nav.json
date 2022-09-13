@@ -1,0 +1,12 @@
+[
+  {
+    "navId": "1",
+    "navName": "首页",
+    "path": "/"
+  },
+  {
+    "navId": "2",
+    "navName": "组件",
+    "path": "/component"
+  }
+]

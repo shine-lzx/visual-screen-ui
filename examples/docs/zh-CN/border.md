@@ -1,5 +1,0 @@
-#### border
-
-```vue
-<Border />
-```
